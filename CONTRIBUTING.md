@@ -1,5 +1,8 @@
 # Contributing
 
+Bitte sende eine Email an: lieblings_kollege@firma.com
+
+
 Your contributions are always welcome!
 
 ## Guidelines
@@ -17,3 +20,4 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
+Bitte schreibe deinem Lieblingskollegen eine Email an: lieblingskollege@gmx.de
